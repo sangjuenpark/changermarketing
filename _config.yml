@@ -1,0 +1,22 @@
+title:              "changer-marketing"
+tagline:            "소셜섹터 데이터 마케팅 A-Z"
+email:              "psj7658@gmail.com"
+description:        "세상을 바꾸는 changemaker에게 꼭 필요한 데이터 마케팅 블로그"
+author:             "박상준"
+baseurl:            "/"
+url:                "https://changermarketing.com"
+locale:             "ko_KR"
+thumbnail:          "/img/blog-thumb.jpg"
+
+# Social Profiles
+facebook_username:  sangjune.park.94
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
