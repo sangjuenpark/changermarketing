@@ -11,6 +11,10 @@ thumbnail:          "/img/blog-thumb.jpg"
 # Social Profiles
 facebook_username:  sangjune.park.94
 
+# 블로그 disqus shortname
+disqus:
+  shortname: https-changermarketing-com
+
 # Build settings
 markdown:           kramdown
 permalink:          /:title
