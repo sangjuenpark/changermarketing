@@ -2,7 +2,7 @@
 layout: post
 permalink: /social-marketing-1/
 title: '사회문제를 마케터가 해결할 수 있다?'
-date: 2019-03-14 10:30:00 +09:00
+date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/02-thumbnail.jpg'
 background: '/img/posts/01/01-background.jpg'
 categories:

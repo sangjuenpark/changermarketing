@@ -2,7 +2,7 @@
 layout: post
 permalink: /digital-marketing-term/
 title: '디지털 마케팅을 하려 하는데 영어로 된 용어가 너무 많아요'
-date: 2019-03-22 16:30:00 +09:00
+date: 2020-03-22 16:30:00 +09:00
 feature: '/img/posts/03/02-thumbnail.jpg'
 background: '/img/posts/03/03-background.jpg'
 categories:
