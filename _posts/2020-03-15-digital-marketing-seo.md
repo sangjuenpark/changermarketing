@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /social-marketing-2/
+permalink: /digital-marketing-seo/
 title: '우리 기관 및 조직은 디지털 마케팅을 하려 하는데 돈이 없어요'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/02/02-thumbnail.jpg'

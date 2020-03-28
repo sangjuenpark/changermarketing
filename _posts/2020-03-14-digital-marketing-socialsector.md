@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /social-marketing-1/
+permalink: /digital-marketing-socialsector/
 title: '사회문제를 마케터가 해결할 수 있다?'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/02-thumbnail.jpg'
