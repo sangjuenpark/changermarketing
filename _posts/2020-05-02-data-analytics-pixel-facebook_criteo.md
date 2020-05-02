@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /data-analytics-pixel-facebook_criteo/
-title: '픽셀을 활용해서 광고를 하라는데 픽셀이 설치되어 있는지 모르겠어요-페북,크리테오'
+title: '사이트에 픽셀이 설치되어 있는지 모르겠어요-페북,크리테오'
 date: 2020-05-02 15:00:00 +09:00
 feature: '/img/posts/06/06-thumbnail.jpg'
 background: '/img/posts/06/06-background.jpg'
