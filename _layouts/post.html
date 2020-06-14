@@ -57,13 +57,12 @@ layout: default
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162099629-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-162099629-1', { 'send_page_view': false });
-    gtag('event', 'view_item', {
+    var postview = document.queryselectorall(.post-preview);
+    post-preview.addEventListener('click',function(event){
+     gtag('event','view_itme', {  
     'event_category' : '글보기',
-    'event_action' : '보기'
+    'event_action' : '보기',
     'event_label' : '{{page.title}}'
     });
-  </script>
+    } 
+      </script>
