@@ -12,7 +12,7 @@ tags:
   - 사회문제
   - 데이터
   - 소셜섹터
-content_id:'20200314_socialsector'  
+content_id: '2020314_socialsector'  
 description: '사회문제를 마케터가 해결할 수 있다. 소셜섹터에게 꼭 필요한 건 마케팅이다.'
 ---
 

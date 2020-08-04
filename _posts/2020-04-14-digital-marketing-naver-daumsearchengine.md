@@ -15,7 +15,7 @@ tags:
  - 검색엔진
  - 네이버
  - 다음
-content_id:'20200414_searchengine'  
+content_id: '2020414_searchengine'
 description: '네이버, 다음 검색엔진에 사이트 노출 시키는 방법.'
 ---
 

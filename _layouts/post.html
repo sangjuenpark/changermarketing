@@ -60,8 +60,9 @@ layout: default
   });
 </script>
 <script>
+  var content_id = '{{page.content_id}}';
   dataLayer.push({
-          'event' : 'ViewContent',
+          'event' : 'Viewcontent',
           'content_name': '{{page.title}}',
           'content_id': '{{page.content_id}}'
           });

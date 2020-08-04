@@ -14,7 +14,7 @@ tags:
  - 디지털통합
  - 디지털설문조사
  - 비영리단체
- content_id:'20200531_getsitecontrol'   
+content_id: '2020531_getsitecontrol'
 description: 'Getsitecontrol을 통한 온사이트마케팅(On-site)'
 ---
 

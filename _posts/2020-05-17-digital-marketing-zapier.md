@@ -14,7 +14,7 @@ tags:
  - 디지털마케팅
  - 디지털통합
  - 비영리단체
- content_id:'20200517_zapier'  
+content_id: '2020517_zapier'
 description: 'Zapier(재피어)를 활용한 통합작업'
 ---
 

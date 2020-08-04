@@ -13,7 +13,7 @@ tags:
  - 소셜섹터
  - 디지털마케팅
  - 디지털마케팅 용어
-content_id:'20200322_term'
+content_id: '2020322_term'
 description: '디지털 마케팅을 하는데 꼭 알고 있어야 하는 필수 용어.'
 ---
 

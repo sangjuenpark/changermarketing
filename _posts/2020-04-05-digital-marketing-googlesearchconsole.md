@@ -14,7 +14,7 @@ tags:
  - 디지털마케팅
  - 검색엔진
  - 구글
-content_id:'20200405_searchconsole'  
+content_id: '2020405_searchconsole'
 description: '구글 검색엔진에 사이트 노출 시키는 방법.'
 ---
 
