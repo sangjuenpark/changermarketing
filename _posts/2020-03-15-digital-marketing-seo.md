@@ -12,7 +12,7 @@ tags:
  - 사회문제
  - 데이터
  - 소셜섹터
-content_id:'seo'
+content_id:'20200315_seo'
 description: '우리 기관 및 조직은 디지털 마케팅을 하려 하는데 돈이 없어요. 돈이 들지 않는 디지털 마케팅 -SEO-.'
 ---
 

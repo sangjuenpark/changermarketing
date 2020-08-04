@@ -14,7 +14,7 @@ tags:
  - 페이스북
  - 크리테오
  - 소셜벤처
-content_id:'pixel-facebook_criteo'
+content_id:'20200522_pixel'  
 description: '크롬확장도구를 활용한 페북, 크리테오 픽셀 확인.'
 ---
 

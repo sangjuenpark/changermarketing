@@ -60,15 +60,9 @@ layout: default
   });
 </script>
 <script>
-var content_id = '{{content_id}}';  
-fbq('track', 'ViewContent',{
-  'content_name': '{{page.title}}',
-  'content_id': '{{content_id}}'
-});
-</script>
-<script>
   dataLayer.push({
-          'event' : 'submitForm',
-          'page' : '원두판매페이지'
+          'event' : 'ViewContent',
+          'content_name': '{{page.title}}',
+          'content_id': '{{page.content_id}}'
           });
 </script>
